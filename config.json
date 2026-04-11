@@ -12,7 +12,7 @@
   "antiInbox": false,
   "language": "en",
   "notesLanguage": "change language using ISO 639-1 code",
-  "nickNameBot": "✦ 𝙏𝙊𝙍𝙐 𝘾𝙃𝘼𝙉 ✦",
+  "nickNameBot": "Dhettor",
   "prefix": ".",
   "adminOnly": {
     "enable": false,
@@ -20,10 +20,10 @@
   },
   "adminBot": [
     "61587127028066",
-    "100061935903355",
+    "61576505754912",
     "61587173630283",
     "100048786044500",
-    "61564643127325"
+    "61579457715798"
   ],
   "reactUnsend": {
     "enable": true,
